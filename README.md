@@ -5,6 +5,16 @@
 
 ---
 
+## About this public repository
+
+This repository is a **public field guide**, not the full VCaaS™ deployment kit.
+
+It is designed to explain the problem of context fragmentation, introduce the VCaaS™ operating model, and help leaders understand why AI context needs governance.
+
+It intentionally excludes the deployable templates, client audit process, implementation prompts, scoring models, practitioner materials, and engagement playbooks. Those remain part of the paid VCaaS™ engagement — see [Get the full deployment kit](#get-the-full-deployment-kit) at the bottom of this README.
+
+---
+
 ## The problem
 
 Your team uses Claude Code, Cursor, custom agents, automation scripts. Every one of those tools needs to know how your company works — your tone of voice, your pricing rules, your terminology, your customer policies. Today that knowledge lives in scattered places: Slack threads, Google Docs, somebody's head, three different versions of the same spreadsheet.
@@ -87,10 +97,10 @@ This is the **public, conceptual version** of the framework. It contains the met
 |---|---|
 | [`README.md`](README.md) | This document — the framework overview |
 | [`METHODOLOGY.md`](METHODOLOGY.md) | The six-module engagement model, conceptual level |
-| [`VCAAS-DECISION-TREE.md`](VCAAS-DECISION-TREE.md) | The classification tree: where does this piece of context go, and who controls it? |
-| [`FOLDER-STRUCTURE.md`](FOLDER-STRUCTURE.md) | The reference folder layout as a text diagram |
+| [`PUBLIC-CONTEXT-CLASSIFICATION-GUIDE.md`](PUBLIC-CONTEXT-CLASSIFICATION-GUIDE.md) | Simplified classification guide: where does this piece of context go, and who controls it? |
+| [`REFERENCE-ARCHITECTURE.md`](REFERENCE-ARCHITECTURE.md) | Illustrative reference architecture as a text diagram |
 | [`DRIFT-SIGNALS.md`](DRIFT-SIGNALS.md) | The signals that tell you context governance is rotting |
-| [`LICENCE.md`](LICENCE.md) | Licensing terms for this public version |
+| [`LICENSE.md`](LICENSE.md) | Licensing terms for this public version |
 
 This repository is **deliberately conceptual**. It does not include the deployable kit — the working `CLAUDE.md` templates, the skill files, the proposed-changes protocol, the discovery agent prompt, the health scorecard templates, or the day-by-day deployment guide. Those are part of the full VCaaS™ engagement.
 

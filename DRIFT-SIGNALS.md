@@ -34,12 +34,15 @@ The VCaaS™ Health Scorecard composites seven dimensions, each scored 0–10. D
 
 ### Trigger thresholds
 
-These are the points at which the system flags drift and requires action.
+In paid VCaaS™ deployments, health thresholds are **calibrated per client** based on team size, number of active agents, regulatory exposure, and operational risk profile. A two-person consultancy and a regulated financial-services firm do not share the same drift tolerance.
 
-- **Composite score < 6** → schedule an emergency context review within 7 days.
-- **Any single dimension < 4** → that dimension's owner is paged immediately.
-- **Drift dimension < 5 for 3 consecutive weeks** → mandatory full audit (re-run the discovery agent against the current landscape).
-- **AI compliance < 10 (any violation)** → root-cause analysis logged before the next weekly review.
+Conceptually, three classes of trigger exist:
+
+- **Composite drop** — when the overall score falls below the calibrated floor, an emergency context review is scheduled.
+- **Single-dimension collapse** — when any single dimension falls into the critical band, that dimension's owner is paged for same-week action.
+- **Persistent drift** — when the Drift or Fragmentation dimension stays in the warning band across several consecutive reviews, a full audit re-runs against the current landscape.
+
+Exact numeric thresholds, escalation cadences, and the calibration formula are part of the deployment kit and are not published here.
 
 ---
 

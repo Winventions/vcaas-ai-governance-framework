@@ -1,11 +1,13 @@
-# VCaaS™ Folder Structure
+# VCaaS™ Reference Architecture
 
-> Reference layout for a VCaaS™ deployment.
-> This is the structural skeleton — the conceptual layer. The full deployable kit (with working templates inside each file) is part of the paid engagement. See [README.md](README.md).
+> An illustrative, public example of how AI context governance can be structured under VCaaS™.
+> This is **not** the deployable layout. Production deployments vary by organization size, tool stack, regulatory environment, agent topology, and operating model. The full deployable kit — with working templates, calibrated zones, and client-specific structures — is part of the paid engagement. See [README.md](README.md).
 
 ---
 
-## The full layout
+## Illustrative Reference Architecture
+
+This is a simplified public example of how context governance can be structured. Production deployments vary by organization, tool stack, regulatory environment, and operating model. Treat the layout below as a conceptual reference, not a copy-paste skeleton.
 
 ```
 <organization-root>/

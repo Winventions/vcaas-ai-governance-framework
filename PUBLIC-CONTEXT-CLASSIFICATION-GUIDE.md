@@ -1,13 +1,17 @@
-# VCaaS™ Decision Tree
+# VCaaS™ Public Context Classification Guide
 
-> The printable, AI-readable classification guide.
+> A simplified, public-facing introduction to how VCaaS™ classifies AI context.
 > A piece of context just appeared in your work. Where does it go, and who controls changes to it?
 
 ---
 
-Walk this tree top to bottom. The first branch that fits is your answer.
+> **This is a simplified public guide.** The full VCaaS™ classification model includes client-specific risk scoring, ownership assignment, protected-zone mapping, calibrated edge cases, and the implementation templates that operationalize each branch. Those are part of the paid VCaaS™ engagement and are not included in this repository.
 
-The tree runs in two passes:
+---
+
+Walk this guide top to bottom. The first branch that fits is your answer.
+
+The guide runs in two passes:
 
 - **Pass 1** assigns a **tier** — where, structurally, the content lives in the hierarchy.
 - **Pass 2** assigns a **zone** — protected (AI proposes, human approves) or autonomous (AI may modify directly).
