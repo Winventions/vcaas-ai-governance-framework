@@ -11,7 +11,7 @@ This repository is a **public field guide**, not the full VCaaS™ deployment ki
 
 It is designed to explain the problem of context fragmentation, introduce the VCaaS™ operating model, and help leaders understand why AI context needs governance.
 
-It intentionally excludes the deployable templates, client audit process, implementation prompts, scoring models, practitioner materials, and engagement playbooks. Those remain part of the paid VCaaS™ engagement — see [Get the full deployment kit](#get-the-full-deployment-kit) at the bottom of this README.
+It intentionally excludes the deployable templates, client audit process, implementation prompts, scoring models, practitioner materials, and engagement playbooks. Those remain part of the paid VCaaS™ engagement — see [Deploy VCaaS™ in your organization](#deploy-vcaas-in-your-organization) at the bottom of this README.
 
 ---
 
@@ -127,17 +127,30 @@ If your AI tools can edit pricing, change calculation logic, or rewrite complian
 
 ---
 
-## Get the full deployment kit
+## Deploy VCaaS™ in your organization
 
-This public repository is the conceptual layer. The **full VCaaS™ deployment kit** — including the working templates, the discovery agent, the proposed-changes protocol, the health scorecard, all six engagement modules, and the 30-day deployment playbook — is delivered as a paid engagement by Winventions LLC.
+This repository is the public field guide.
 
-**To deploy VCaaS™ in your organization, visit [thecfointel.com](https://thecfointel.com).**
+The full VCaaS™ deployment kit is delivered through a paid Winventions LLC engagement and includes:
 
-You can also reach out directly for:
+- Working CLAUDE.md and context governance templates
+- Discovery and context audit workflows
+- Protected vs. autonomous zone configuration
+- Proposed-changes protocol
+- Ownership matrix and update propagation system
+- Context health scorecard
+- Six-module implementation process
+- 30-day deployment playbook
 
-- **Authorised practitioner licensing** — deliver VCaaS™ engagements under licence.
-- **Enterprise terms** — multi-entity or regulated-industry deployments.
-- **Custom integrations** — embedding VCaaS™ governance into existing internal platforms.
+VCaaS™ is designed for teams using AI agents in real workflows where context accuracy, ownership, auditability, and change control matter.
+
+To discuss deployment, licensing, or enterprise implementation, contact Winventions LLC:
+
+**Website:** [https://thecfointel.com](https://thecfointel.com)
+**Email:** [VCAAS-EMAIL-PLACEHOLDER]
+**Subject line:** VCaaS Deployment Inquiry
+
+> **The public repo explains the problem. The paid deployment kit installs the operating system.**
 
 ---
 

@@ -23,7 +23,7 @@ You may not **resell** these materials, repackage them, or offer them as a paid 
 
 You may not **build a competing methodology** that uses these templates, decision trees, or structural patterns as the substrate. Renaming "VCaaS™" to something else and selling the result is a violation.
 
-You may not **deploy these public materials as if they were the full kit**. This repository deliberately excludes the working templates, the discovery agent, the proposed-changes protocol, the health scorecard templates, the deployment guide, and the engagement deliverables. Those are reserved for paid VCaaS™ engagements delivered by Winventions LLC or by an authorised VCaaS™ practitioner.
+You may not **deploy these public materials as if they were the full kit**. This repository deliberately excludes the working templates, the discovery agent, the proposed-changes protocol, the health scorecard templates, the deployment guide, and the engagement deliverables. Those are reserved for paid VCaaS™ engagements delivered by Winventions LLC or by an authorized VCaaS™ practitioner.
 
 You may not **remove or alter the VCaaS™ trademark references, the USPTO serial number, the Winventions LLC attribution, or the link to thecfointel.com** in any reproduction.
 
@@ -50,7 +50,7 @@ To engage the full deployment kit, contact Winventions LLC via [thecfointel.com]
 
 ## Licensing inquiries
 
-To license the methodology beyond the terms of this public licence — for example, to deliver VCaaS™ engagements as an authorised practitioner, to incorporate VCaaS™ templates into a third-party product, or to negotiate enterprise terms — contact Winventions LLC via [thecfointel.com](https://thecfointel.com).
+To license the methodology beyond the terms of this public licence — for example, to deliver VCaaS™ engagements as an authorized practitioner, to incorporate VCaaS™ templates into a third-party product, or to negotiate enterprise terms — contact Winventions LLC via [thecfointel.com](https://thecfointel.com).
 
 ## Governing law
 
